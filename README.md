@@ -1,4 +1,2 @@
-# match
-
-Backend for matches ios app
 # SnatchBackend
+Backend for matches ios app
